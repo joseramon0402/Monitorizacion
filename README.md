@@ -4,9 +4,9 @@ La monitorización consiste en supervisar el funcionamiento de un sistema inform
 
 ## 📑 ÍNDICE
 
-1. [Procesos](01-procesos.md)
-2. [Memoria, espacio y rendimiento del disco](02-memoria-espacio-rendimiento-disco.md)
-3. [Tráfico de la red](03-trafico-red.md)
+1. [Procesos](1.md)
+2. [Memoria, espacio y rendimiento del disco](2.md)
+3. [Tráfico de la red](3.md)
 
 ## 🖥️ ¿QUÉ ES LA MONITORIZACIÓN?
 
