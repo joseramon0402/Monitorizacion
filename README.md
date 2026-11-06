@@ -12,4 +12,4 @@ La monitorización consiste en supervisar el funcionamiento de un sistema inform
 
 La monitorización permite comprobar el estado de un equipo informático en tiempo real, analizar el uso de sus recursos y detectar posibles errores o problemas que puedan afectar a su funcionamiento.
 
-![Monitorización de sistemas](https://chatgpt.com/s/m_6aed9e49f5188191bc0b8e5fc77701d2)
+![Monitorización de sistemas](Monitorizacion.png)
