@@ -16,5 +16,5 @@ La monitorización permite comprobar el estado de un equipo informático en tiem
 
 ## Webgrafía
 
-- [ChatGPT – OpenAI](https://chatgpt.com/): apoyo en la búsqueda de información, explicación de comandos y elaboración de código.
+- [ChatGPT – OpenAI](https://chatgpt.com/): apoyo en la búsqueda de información y explicación de comandos.
   
