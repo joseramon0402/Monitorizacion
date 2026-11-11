@@ -1,4 +1,4 @@
-# 📊 MONITORIZACIÓN (PC208)
+# 📊 MONITORIZACIÓN (PC_208)
 
 La monitorización consiste en supervisar el funcionamiento de un sistema informático, controlando sus recursos y detectando posibles problemas de rendimiento.
 
