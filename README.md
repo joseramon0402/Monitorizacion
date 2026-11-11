@@ -1,4 +1,4 @@
-# 📊 MONITORIZACIÓN
+# 📊 MONITORIZACIÓN (PC208)
 
 La monitorización consiste en supervisar el funcionamiento de un sistema informático, controlando sus recursos y detectando posibles problemas de rendimiento.
 
@@ -13,3 +13,8 @@ La monitorización consiste en supervisar el funcionamiento de un sistema inform
 La monitorización permite comprobar el estado de un equipo informático en tiempo real, analizar el uso de sus recursos y detectar posibles errores o problemas que puedan afectar a su funcionamiento.
 
 ![Monitorización de sistemas](Monitorización.png)
+
+## Webgrafía
+
+- [ChatGPT – OpenAI](https://chatgpt.com/): apoyo en la búsqueda de información, explicación de comandos y elaboración de código.
+  
